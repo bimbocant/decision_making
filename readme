@@ -1,0 +1,12 @@
+The idea is the development of a script that calculates the best decision
+to be made based on the information that a user may have after an analysis
+of some scenarios. This information could be the benefits or utilities of
+choosing an alternative.
+
+Alternatives.
+State of nature.
+Benefit
+Utility
+
+The calculations are made based on Expected values, OWA operators and other
+types of aggregators.
